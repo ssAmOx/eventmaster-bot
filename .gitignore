@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Environment configuration
+.env
+config.json
+
+# Database files
+*.db
+*.db-journal
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db

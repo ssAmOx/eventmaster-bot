@@ -1,0 +1,7 @@
+{
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "clientId": "YOUR_CLIENT_ID_HERE",
+    "devGuildId": "YOUR_DEV_SERVER_ID_HERE",
+    "adminRoleId": "OPTIONAL_ADMIN_ROLE_ID",
+    "defaultTimezone": "UTC"
+  }
