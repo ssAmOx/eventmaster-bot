@@ -1,7 +1,7 @@
 # EventMaster Discord Bot
 
 <div align="center">
-  <img src="docs/images/eventmaster-logo.png" alt="EventMaster Logo" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/96144815?v=4" alt="EventMaster Logo" width="200"/>
   <br>
   <p>A powerful Discord bot to manage events in your server</p>
   <a href="https://github.com/ssAmOx/eventmaster-bot/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ssAmOx/eventmaster-bot"></a>
@@ -128,6 +128,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Your Name - ssamogamer@example.com
 
 Project Link: [https://github.com/ssAmOx/eventmaster-bot](https://github.com/ssAmOx/eventmaster-bot)
